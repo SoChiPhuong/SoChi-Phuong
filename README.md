@@ -17,3 +17,9 @@ I'm a passionate and aspiring developer who enjoys working with modern mobile te
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoChiPhuong&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sochiphuong&layout=compact&theme=radical)
+
+  ## 💰You can help me by Donating
+  [![playerduo](https://buymeacoffee.com/https://playerduo.net/sochi9723)]
+
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
